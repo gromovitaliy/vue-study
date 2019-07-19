@@ -24,7 +24,7 @@ export default {
     {title: 'Планирование',url: '/planning'},
     {title: 'Новая запись',url: '/record'},
     {title: 'Категории',url: '/categories'}
-    ] 
+    ]   
   })
 }
 </script>
